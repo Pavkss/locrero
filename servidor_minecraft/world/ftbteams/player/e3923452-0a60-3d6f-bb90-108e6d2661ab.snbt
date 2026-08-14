@@ -1,0 +1,15 @@
+{
+	id: "e3923452-0a60-3d6f-bb90-108e6d2661ab"
+	type: "player"
+	player_name: "Pavks"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Pavks"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

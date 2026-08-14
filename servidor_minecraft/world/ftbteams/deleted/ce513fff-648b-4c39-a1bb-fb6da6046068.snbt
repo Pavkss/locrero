@@ -1,0 +1,21 @@
+{
+	id: "ce513fff-648b-4c39-a1bb-fb6da6046068"
+	type: "party"
+	owner: "62ca9e60-5ba8-37d7-8826-b8e6b0e9ca6b"
+	ranks: {
+		f79aa4ee-cdd4-3437-923b-40f0b9103b28: "invited"
+		62ca9e60-5ba8-37d7-8826-b8e6b0e9ca6b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Dopierz's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5971FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1786583539882L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Dopierz\"}]}" }
+		{ from: "62ca9e60-5ba8-37d7-8826-b8e6b0e9ca6b", date: 1786583539887L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"pigTY_\"}]}" }
+	]
+	extra: { }
+}
