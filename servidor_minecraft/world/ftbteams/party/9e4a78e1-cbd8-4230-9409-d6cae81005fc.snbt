@@ -1,0 +1,25 @@
+{
+	id: "9e4a78e1-cbd8-4230-9409-d6cae81005fc"
+	type: "party"
+	owner: "6311b347-ba8e-3b8c-8f17-7a1d11dd5df8"
+	ranks: {
+		52edf9db-68cd-39d2-9d06-47f7f931c2c0: "invited"
+		6311b347-ba8e-3b8c-8f17-7a1d11dd5df8: "owner"
+		e3923452-0a60-3d6f-bb90-108e6d2661ab: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "NSTX "
+		"ftbteams:description": "Palteando en grupo"
+		"ftbteams:color": "#A159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1786647265368L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Matho\"}]}" }
+		{ from: "6311b347-ba8e-3b8c-8f17-7a1d11dd5df8", date: 1786647265377L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Pavks\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1786647292004L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pavks\"}]}" }
+		{ from: "6311b347-ba8e-3b8c-8f17-7a1d11dd5df8", date: 1786652219156L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Jojoquin10\"}]}" }
+		{ from: "6311b347-ba8e-3b8c-8f17-7a1d11dd5df8", date: 1786652877588L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Jojoquin10\"}]}" }
+	]
+	extra: { }
+}

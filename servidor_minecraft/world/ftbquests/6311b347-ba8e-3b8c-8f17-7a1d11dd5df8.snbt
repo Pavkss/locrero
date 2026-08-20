@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "6311b347ba8e3b8c8f177a1d11dd5df8"
+	name: "Matho#6311b347"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

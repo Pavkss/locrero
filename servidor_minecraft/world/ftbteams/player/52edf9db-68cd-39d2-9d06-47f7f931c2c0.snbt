@@ -1,0 +1,17 @@
+{
+	id: "52edf9db-68cd-39d2-9d06-47f7f931c2c0"
+	type: "player"
+	player_name: "Jojoquin10"
+	ranks: {
+		52edf9db-68cd-39d2-9d06-47f7f931c2c0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jojoquin10"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6759"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

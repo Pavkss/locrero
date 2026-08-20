@@ -1,0 +1,15 @@
+{
+	id: "f79aa4ee-cdd4-3437-923b-40f0b9103b28"
+	type: "player"
+	player_name: "pigTY_"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "pigTY_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DB59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

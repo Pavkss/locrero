@@ -1,0 +1,15 @@
+{
+	id: "ceac07cc-113d-33b1-8c84-9a6992199d84"
+	type: "player"
+	player_name: "Eltomy35"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Eltomy35"
+		"ftbteams:description": ""
+		"ftbteams:color": "#D359FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
